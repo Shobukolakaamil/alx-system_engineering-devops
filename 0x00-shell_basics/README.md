@@ -9,3 +9,4 @@ This script displays the current directory contents.
 This script deletes betty
 This script deletes my_first_directory
 This script takes us back to the previous directory
+12 This script lists all files from multiple directories
