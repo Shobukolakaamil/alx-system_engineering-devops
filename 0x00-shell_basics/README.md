@@ -8,3 +8,4 @@ This script displays the current directory contents.
 8 This script moves the file betty from /tmp/ to /tmp/my_first_directory
 This script deletes betty
 This script deletes my_first_directory
+This script takes us back to the previous directory
