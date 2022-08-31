@@ -7,3 +7,4 @@ This script displays the current directory contents.
 7 This script creates a directory named my_first_directory in the /tmp/ directory.
 8 This script moves the file betty from /tmp/ to /tmp/my_first_directory
 This script deletes betty
+This script deletes my_first_directory
