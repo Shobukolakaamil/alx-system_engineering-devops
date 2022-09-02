@@ -10,3 +10,5 @@ This script deletes betty
 This script deletes my_first_directory
 This script takes us back to the previous directory
 12 This script lists all files from multiple directories
+13 This script creates a a symbolic link to /bin/ls, named __ls__
+14 This script creates a script that copies all the HTML files from the current working directory
